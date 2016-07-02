@@ -2,6 +2,8 @@
 
 The android app is available [here](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en).
 
+![Screenshot of the statistics](/screenshot.png?raw=true "Excel statistics")
+
 Use the *backup* feature of the app to create a backup file (`*.pctb`) and copy
 it from the sdcard to `backup.json` in directory of the app.
 
